@@ -1,0 +1,23 @@
+
+ellipsis($width)
+  width $width
+  overflow hidden
+  text-overflow ellipsis
+  white-space: nowrap
+  word-wrap normal
+
+ellipsisLn($line)
+  overflow hidden
+  text-overflow: ellipsis
+  display -webkit-box
+  -webkit-box-orient vertical
+  -webkit-line-clamp $line
+
+px2vw(num){
+  (100vw * (num / 750));
+}
+
+touchFree(){
+  -webkit-overflow-scrolling:touch;
+}
+
