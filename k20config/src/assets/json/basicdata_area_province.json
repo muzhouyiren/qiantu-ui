@@ -1,0 +1,242 @@
+{
+    "RECORDS": [
+        {
+            "uuid": "110000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "北京市"
+        },
+        {
+            "uuid": "120000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "天津市"
+        },
+        {
+            "uuid": "130000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "河北省"
+        },
+        {
+            "uuid": "140000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "山西省"
+        },
+        {
+            "uuid": "150000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "内蒙古自治区"
+        },
+        {
+            "uuid": "210000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "辽宁省"
+        },
+        {
+            "uuid": "220000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "吉林省"
+        },
+        {
+            "uuid": "230000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "黑龙江省"
+        },
+        {
+            "uuid": "310000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "上海市"
+        },
+        {
+            "uuid": "320000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "江苏省"
+        },
+        {
+            "uuid": "330000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "浙江省"
+        },
+        {
+            "uuid": "340000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "安徽省"
+        },
+        {
+            "uuid": "350000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "福建省"
+        },
+        {
+            "uuid": "360000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "江西省"
+        },
+        {
+            "uuid": "370000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "山东省"
+        },
+        {
+            "uuid": "410000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "河南省"
+        },
+        {
+            "uuid": "420000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "湖北省"
+        },
+        {
+            "uuid": "430000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "湖南省"
+        },
+        {
+            "uuid": "440000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "广东省"
+        },
+        {
+            "uuid": "450000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "广西省"
+        },
+        {
+            "uuid": "460000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "海南省"
+        },
+        {
+            "uuid": "500000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "重庆市"
+        },
+        {
+            "uuid": "510000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "四川省"
+        },
+        {
+            "uuid": "520000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "贵州省"
+        },
+        {
+            "uuid": "530000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "云南省"
+        },
+        {
+            "uuid": "540000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "西藏自治区"
+        },
+        {
+            "uuid": "610000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "陕西省"
+        },
+        {
+            "uuid": "620000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "甘肃省"
+        },
+        {
+            "uuid": "630000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "青海省"
+        },
+        {
+            "uuid": "640000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "宁夏回族自治区"
+        },
+        {
+            "uuid": "650000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "新疆维吾尔自治区"
+        },
+        {
+            "uuid": "710000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "台湾省"
+        },
+        {
+            "uuid": "810000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "香港特别行政区"
+        },
+        {
+            "uuid": "820000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceName": "澳门特别行政区"
+        }
+    ]
+}

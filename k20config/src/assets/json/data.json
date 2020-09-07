@@ -1,0 +1,306 @@
+{
+    "msg": "成功", 
+    "date": {
+        "images": [
+            {
+                "id": 37, 
+                "path": "http://106.14.120.68:7500//dev1/0/000/005/0000005137.fid", 
+                "position": 1, 
+                "subClassId": 1, 
+                "fileId": 7
+            }, 
+            {
+                "id": 38, 
+                "path": "http://106.14.120.68:7500//dev1/0/000/005/0000005140.fid", 
+                "position": 2, 
+                "subClassId": 1, 
+                "fileId": 7
+            }, 
+            {
+                "id": 39, 
+                "path": "http://106.14.120.68:7500//dev1/0/000/005/0000005143.fid", 
+                "position": 3, 
+                "subClassId": 1, 
+                "fileId": 7
+            }, 
+            {
+                "id": 40, 
+                "path": "http://106.14.120.68:7500//dev1/0/000/004/0000004573.fid", 
+                "position": 1, 
+                "subClassId": 3, 
+                "fileId": 7
+            }, 
+            {
+                "id": 41, 
+                "path": "http://106.14.120.68:7500//dev1/0/000/004/0000004582.fid", 
+                "position": 1, 
+                "subClassId": 2, 
+                "fileId": 7
+            }, 
+            {
+                "id": 42, 
+                "path": "http://106.14.120.68:7500//dev1/0/000/004/0000004585.fid", 
+                "position": 2, 
+                "subClassId": 2, 
+                "fileId": 7
+            }
+        ], 
+        "default": [
+            {
+                "id": 4, 
+                "frontName": "黄色外观", 
+                "iconPath": "http://106.14.120.68:7500//dev1/0/000/005/0000005286.fid", 
+                "subClassId": 1, 
+                "price": 0
+            }, 
+            {
+                "id": 7, 
+                "frontName": "黑色轮辋", 
+                "iconPath": "http://106.14.120.68:7500/dev1/0/000/002/0000002257.fid", 
+                "subClassId": 3, 
+                "price": 3000
+            }, 
+            {
+                "id": 9, 
+                "frontName": "黑色内饰", 
+                "iconPath": "http://106.14.120.68:7500/dev1/0/000/002/0000002259.fid", 
+                "subClassId": 2, 
+                "price": 0
+            }
+        ], 
+        "cates": [
+            {
+                "id": 1, 
+                "frontName": "外观", 
+                "createTime": "2019-07-02 14:22:00", 
+                "updateTime": "2019-07-02 14:22:00"
+            }, 
+            {
+                "id": 2, 
+                "frontName": "内饰", 
+                "createTime": "2019-07-02 14:22:00", 
+                "updateTime": "2019-07-02 14:22:00"
+            }, 
+            {
+                "id": 3, 
+                "frontName": "轮辋", 
+                "createTime": "2019-07-02 14:22:00", 
+                "updateTime": "2019-07-02 14:22:00"
+            }, 
+            {
+                "id": 4, 
+                "frontName": "个性化", 
+                "createTime": "2019-07-02 14:22:00", 
+                "updateTime": "2019-07-02 14:22:00"
+            }, 
+            {
+                "id": 5, 
+                "frontName": "套件", 
+                "createTime": "2019-07-03 14:30:00", 
+                "updateTime": "2019-07-03 14:30:00"
+            }
+        ], 
+        "materials": [
+            {
+                "id": 1, 
+                "frontName": "黑色外观", 
+                "iconPath": "http://106.14.120.68:7500//dev1/0/000/004/0000004923.fid", 
+                "subClassId": 1, 
+                "price": 2000
+            }, 
+            {
+                "id": 2, 
+                "frontName": "白色外观", 
+                "iconPath": "http://106.14.120.68:7500//dev1/0/000/004/0000004925.fid", 
+                "subClassId": 1, 
+                "price": 0
+            }, 
+            {
+                "id": 3, 
+                "frontName": "红色外观", 
+                "iconPath": "http://106.14.120.68:7500//dev1/0/000/005/0000005287.fid", 
+                "subClassId": 1, 
+                "price": 2000
+            }, 
+            {
+                "id": 4, 
+                "frontName": "黄色外观", 
+                "iconPath": "http://106.14.120.68:7500//dev1/0/000/005/0000005286.fid", 
+                "subClassId": 1, 
+                "price": 0
+            }, 
+            {
+                "id": 5, 
+                "frontName": "蓝色外观", 
+                "iconPath": "http://106.14.120.68:7500//dev1/0/000/005/0000005285.fid", 
+                "subClassId": 1, 
+                "price": 0
+            }, 
+            {
+                "id": 6, 
+                "frontName": "灰色外观", 
+                "iconPath": "http://106.14.120.68:7500//dev1/0/000/005/0000005284.fid", 
+                "subClassId": 1, 
+                "price": 0
+            }, 
+            {
+                "id": 7, 
+                "frontName": "黑色轮辋", 
+                "iconPath": "http://106.14.120.68:7500/dev1/0/000/002/0000002257.fid", 
+                "subClassId": 3, 
+                "price": 3000
+            }, 
+            {
+                "id": 8, 
+                "frontName": "白色轮辋", 
+                "iconPath": "http://106.14.120.68:7500/dev1/0/000/002/0000002258.fid", 
+                "subClassId": 3, 
+                "price": 5000
+            }, 
+            {
+                "id": 9, 
+                "frontName": "黑色内饰", 
+                "iconPath": "http://106.14.120.68:7500/dev1/0/000/002/0000002259.fid", 
+                "subClassId": 2, 
+                "price": 0
+            }, 
+            {
+                "id": 10, 
+                "frontName": "HARMAN KARDON 高端音响系统", 
+                "iconPath": "https://www.configurator.maserati.com/cc/adm/repo/8578000/BOE/Q4YG/info1400x875.jpg", 
+                "subClassId": 4, 
+                "price": 18000
+            }, 
+            {
+                "id": 11, 
+                "frontName": "BOWERS&WILKINS高端环绕音响系统", 
+                "iconPath": "https://www.configurator.maserati.com/cc/adm/repo/8578000/BOE/Q4JF/info1400x875.jpg", 
+                "subClassId": 4, 
+                "price": 36000
+            }, 
+            {
+                "id": 12, 
+                "frontName": "ALCANTARA®材质车顶内饰", 
+                "iconPath": "https://www.configurator.maserati.com/cc/adm/repo/8578000/BOE/Q5KW/info1400x875.jpg", 
+                "subClassId": 4, 
+                "price": 22000
+            }, 
+            {
+                "id": 13, 
+                "frontName": "标准皮革（扩展覆盖范围", 
+                "iconPath": "https://www.configurator.maserati.com/cc/adm/repo/8578000/BOE/Q212/info1400x875.jpg", 
+                "subClassId": 4, 
+                "price": 6800
+            }, 
+            {
+                "id": 14, 
+                "frontName": "高端皮革（扩展覆盖范围）", 
+                "iconPath": "https://www.configurator.maserati.com/cc/adm/repo/8578000/BOE/Q728/info1400x875.jpg", 
+                "subClassId": 4, 
+                "price": 40500
+            }, 
+            {
+                "id": 15, 
+                "frontName": "打孔高端皮革（扩展覆盖范围）", 
+                "iconPath": "https://www.configurator.maserati.com/cc/adm/repo/8578000/BOE/Q727/info1400x875.jpg", 
+                "subClassId": 4, 
+                "price": 40500
+            }, 
+            {
+                "id": 16, 
+                "frontName": "米色方向盘", 
+                "iconPath": "https://www.configurator.maserati.com/cc/adm/repo/8578000/BOE/Q318/info1400x875.jpg", 
+                "subClassId": 4, 
+                "price": 3900
+            }, 
+            {
+                "id": 17, 
+                "frontName": "椅通风功能", 
+                "iconPath": "https://www.configurator.maserati.com/cc/adm/repo/8578000/BOE/Q559/info1400x875.jpg", 
+                "subClassId": 4, 
+                "price": 12000
+            }, 
+            {
+                "id": 18, 
+                "frontName": "黑色或深棕色方向盘带木纹嵌饰件", 
+                "iconPath": "https://www.configurator.maserati.com/cc/adm/repo/8578000/BOE/Q319/info1400x875.jpg", 
+                "subClassId": 4, 
+                "price": 11500
+            }, 
+            {
+                "id": 19, 
+                "frontName": "黑色或深棕色方向盘带加热功能及木纹嵌饰件", 
+                "iconPath": "https://www.configurator.maserati.com/cc/adm/repo/8578000/BOE/Q5ZK/info1400x875.jpg", 
+                "subClassId": 4, 
+                "price": 17800
+            }, 
+            {
+                "id": 20, 
+                "frontName": "可加热式运动型方向盘", 
+                "iconPath": "https://www.configurator.maserati.com/cc/adm/repo/8578000/BOE/Q6BQ/info1400x875.jpg", 
+                "subClassId": 4, 
+                "price": 19600
+            }, 
+            {
+                "id": 21, 
+                "frontName": "碳纤维质运动型方向盘", 
+                "iconPath": "https://www.configurator.maserati.com/cc/adm/repo/8578000/BOE/Q6BP/info1400x875.jpg", 
+                "subClassId": 4, 
+                "price": 17800
+            }, 
+            {
+                "id": 22, 
+                "frontName": "INOX运动踏板（不锈钢金属拉丝）", 
+                "iconPath": "https://www.configurator.maserati.com/cc/adm/repo/8578000/BOE/Q4CS/info1400x875.jpg", 
+                "subClassId": 4, 
+                "price": 6000
+            }, 
+            {
+                "id": 23, 
+                "frontName": "智能尾门脚踢感应功能", 
+                "iconPath": "https://www.configurator.maserati.com/cc/adm/repo/8578000/FUS/Q7YZ/info1400x875.jpg", 
+                "subClassId": 4, 
+                "price": 7800
+            }, 
+            {
+                "id": 24, 
+                "frontName": "盲点警示", 
+                "iconPath": "https://www.configurator.maserati.com/cc/adm/repo/8578000/FUS/QXAN/info1400x875.jpg", 
+                "subClassId": 4, 
+                "price": 10900
+            }, 
+            {
+                "id": 25, 
+                "frontName": "电吸门", 
+                "iconPath": "https://www.configurator.maserati.com/cc/adm/repo/8578000/MEC/Q228/info1400x875.jpg", 
+                "subClassId": 4, 
+                "price": 9800
+            }, 
+            {
+                "id": 26, 
+                "frontName": "熏黑前照灯", 
+                "iconPath": "https://www.configurator.maserati.com/cc/adm/repo/8578000/MEC/QMFG/info1400x875.jpg", 
+                "subClassId": 4, 
+                "price": 18000
+            }, 
+            {
+                "id": 27, 
+                "frontName": "黑曜石套件", 
+                "iconPath": "https://www.configurator.maserati.com/cc/adm/repo/8578000/MEC/QMFG/info1400x875.jpg", 
+                "subClassId": 5, 
+                "price": 30000
+            }
+        ], 
+        "exclusions": [
+            {
+                "id": 16, 
+                "frontName": "米色方向盘", 
+                "iconPath": "https://www.configurator.maserati.com/cc/adm/repo/8578000/BOE/Q318/info1400x875.jpg", 
+                "subClassId": 4, 
+                "price": 3900
+            }
+        ], 
+        "suit": [25, 27]
+    }, 
+    "code": "0"
+}

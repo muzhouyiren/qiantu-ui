@@ -1,0 +1,152 @@
+[
+    {
+        "date": [
+            {
+                "uuid": "4944f950982547fda151b5b713as9385a", 
+                "mapCondition": { }, 
+                "oper": "SysManager0000000035", 
+                "opeTime": "2019-06-28 10:25:03", 
+                "delFlag": "1", 
+                "sortName": "uuid", 
+                "sortType": "desc", 
+                "moduleName": "3", 
+                "moduleShowName": "订单系统参数设置", 
+                "resourceName": "12个月", 
+                "resourceKey": "贷款展示2", 
+                "paramValue": "50%", 
+                "paramValueShowName": "50%", 
+                "paramType": "1", 
+                "paramTypeShowName": "文本型", 
+                "paramContent": "", 
+                "note": "28,617", 
+                "position": 0
+            }
+        ], 
+        "year": "12个月"
+    }, 
+    {
+        "date": [
+            {
+                "uuid": "3e07650f884f4c239095ee28fds4b85b6", 
+                "mapCondition": { }, 
+                "oper": "SysManager0000000035", 
+                "opeTime": "2019-06-28 10:24:58", 
+                "delFlag": "1", 
+                "sortName": "uuid", 
+                "sortType": "desc", 
+                "moduleName": "3", 
+                "moduleShowName": "订单系统参数设置", 
+                "resourceName": "18个月", 
+                "resourceKey": "贷款展示1", 
+                "paramValue": "30%", 
+                "paramValueShowName": "30%", 
+                "paramType": "1", 
+                "paramTypeShowName": "文本型", 
+                "paramContent": "", 
+                "note": "26,918", 
+                "position": 0
+            }
+        ], 
+        "year": "18个月"
+    }, 
+    {
+        "date": [
+            {
+                "uuid": "7a7c516278c1414590bc144feasfbcef8", 
+                "mapCondition": { }, 
+                "oper": "SysManager0000000035", 
+                "opeTime": "2019-06-28 10:24:51", 
+                "delFlag": "1", 
+                "sortName": "uuid", 
+                "sortType": "desc", 
+                "moduleName": "3", 
+                "moduleShowName": "订单系统参数设置", 
+                "resourceName": "24个月", 
+                "resourceKey": "贷款展示3", 
+                "paramValue": "20%", 
+                "paramValueShowName": "20%", 
+                "paramType": "1", 
+                "paramTypeShowName": "文本型", 
+                "paramContent": "", 
+                "note": "23,371", 
+                "position": 0
+            }
+        ], 
+        "year": "24个月"
+    }, 
+    {
+        "date": [
+            {
+                "uuid": "a53c0d0b0be5468dbb4b5cba3s0c7a61b", 
+                "mapCondition": { }, 
+                "oper": "SysManager0000000035", 
+                "opeTime": "2019-06-28 10:24:41", 
+                "delFlag": "1", 
+                "sortName": "uuid", 
+                "sortType": "desc", 
+                "moduleName": "3", 
+                "moduleShowName": "订单系统参数设置", 
+                "resourceName": "36个月", 
+                "resourceKey": "贷款展示4", 
+                "paramValue": "20%", 
+                "paramValueShowName": "20%", 
+                "paramType": "1", 
+                "paramTypeShowName": "文本型", 
+                "paramContent": "", 
+                "note": "15,976", 
+                "position": 0
+            }
+        ], 
+        "year": "36个月"
+    }, 
+    {
+        "date": [
+            {
+                "uuid": "77cf80ce7279431293240bdeb49c766b", 
+                "mapCondition": { }, 
+                "oper": "SysManager0000000035", 
+                "opeTime": "2019-06-28 10:24:32", 
+                "delFlag": "1", 
+                "sortName": "uuid", 
+                "sortType": "desc", 
+                "moduleName": "3", 
+                "moduleShowName": "订单系统参数设置", 
+                "resourceName": "48个月", 
+                "resourceKey": "贷款展示5", 
+                "paramValue": "20%", 
+                "paramValueShowName": "20%", 
+                "paramType": "1", 
+                "paramTypeShowName": "文本型", 
+                "paramContent": "", 
+                "note": "12,651", 
+                "position": 0
+            }
+        ], 
+        "year": "48个月"
+    }, 
+    {
+        "date": [
+            {
+                "uuid": "36d7f699ab6f4b4dbe91c63dc4833db6", 
+                "mapCondition": { }, 
+                "oper": "SysManager0000000035", 
+                "opeTime": "2019-06-28 10:23:05", 
+                "delFlag": "1", 
+                "sortName": "uuid", 
+                "sortType": "desc", 
+                "moduleName": "3", 
+                "moduleShowName": "订单系统参数设置", 
+                "resourceName": "60个月", 
+                "resourceKey": "贷款展示6", 
+                "paramValue": "20%", 
+                "paramValueShowName": "20%", 
+                "paramType": "1", 
+                "paramTypeShowName": "文本型", 
+                "paramContent": "", 
+                "note": "10,620", 
+                "position": 0
+            }
+        ], 
+        "year": "60个月"
+    }
+]

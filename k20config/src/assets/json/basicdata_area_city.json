@@ -1,0 +1,2964 @@
+{
+    "RECORDS": [
+        {
+            "uuid": "110100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "110000",
+            "cityName": "北京市"
+        },
+        {
+            "uuid": "120100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "120000",
+            "cityName": "天津市"
+        },
+        {
+            "uuid": "130100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "130000",
+            "cityName": "石家庄市"
+        },
+        {
+            "uuid": "130200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "130000",
+            "cityName": "唐山市"
+        },
+        {
+            "uuid": "130300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "130000",
+            "cityName": "秦皇岛市"
+        },
+        {
+            "uuid": "130400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "130000",
+            "cityName": "邯郸市"
+        },
+        {
+            "uuid": "130500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "130000",
+            "cityName": "邢台市"
+        },
+        {
+            "uuid": "130600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "130000",
+            "cityName": "保定市"
+        },
+        {
+            "uuid": "130700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "130000",
+            "cityName": "张家口市"
+        },
+        {
+            "uuid": "130800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "130000",
+            "cityName": "承德市"
+        },
+        {
+            "uuid": "130900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "130000",
+            "cityName": "沧州市"
+        },
+        {
+            "uuid": "131000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "130000",
+            "cityName": "廊坊市"
+        },
+        {
+            "uuid": "131100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "130000",
+            "cityName": "衡水市"
+        },
+        {
+            "uuid": "140100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "140000",
+            "cityName": "太原市"
+        },
+        {
+            "uuid": "140200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "140000",
+            "cityName": "大同市"
+        },
+        {
+            "uuid": "140300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "140000",
+            "cityName": "阳泉市"
+        },
+        {
+            "uuid": "140400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "140000",
+            "cityName": "长治市"
+        },
+        {
+            "uuid": "140500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "140000",
+            "cityName": "晋城市"
+        },
+        {
+            "uuid": "140600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "140000",
+            "cityName": "朔州市"
+        },
+        {
+            "uuid": "140700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "140000",
+            "cityName": "晋中市"
+        },
+        {
+            "uuid": "140800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "140000",
+            "cityName": "运城市"
+        },
+        {
+            "uuid": "140900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "140000",
+            "cityName": "忻州市"
+        },
+        {
+            "uuid": "141000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "140000",
+            "cityName": "临汾市"
+        },
+        {
+            "uuid": "141100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "140000",
+            "cityName": "吕梁市"
+        },
+        {
+            "uuid": "150100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "150000",
+            "cityName": "呼和浩特市"
+        },
+        {
+            "uuid": "150200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "150000",
+            "cityName": "包头市"
+        },
+        {
+            "uuid": "150300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "150000",
+            "cityName": "乌海市"
+        },
+        {
+            "uuid": "150400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "150000",
+            "cityName": "赤峰市"
+        },
+        {
+            "uuid": "150500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "150000",
+            "cityName": "通辽市"
+        },
+        {
+            "uuid": "150600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "150000",
+            "cityName": "鄂尔多斯市"
+        },
+        {
+            "uuid": "150700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "150000",
+            "cityName": "呼伦贝尔市"
+        },
+        {
+            "uuid": "150800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "150000",
+            "cityName": "巴彦淖尔市"
+        },
+        {
+            "uuid": "150900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "150000",
+            "cityName": "乌兰察布市"
+        },
+        {
+            "uuid": "152200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "150000",
+            "cityName": "兴安盟"
+        },
+        {
+            "uuid": "152500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "150000",
+            "cityName": "锡林郭勒盟"
+        },
+        {
+            "uuid": "152900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "150000",
+            "cityName": "阿拉善盟"
+        },
+        {
+            "uuid": "210100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "210000",
+            "cityName": "沈阳市"
+        },
+        {
+            "uuid": "210200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "210000",
+            "cityName": "大连市"
+        },
+        {
+            "uuid": "210300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "210000",
+            "cityName": "鞍山市"
+        },
+        {
+            "uuid": "210400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "210000",
+            "cityName": "抚顺市"
+        },
+        {
+            "uuid": "210500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "210000",
+            "cityName": "本溪市"
+        },
+        {
+            "uuid": "210600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "210000",
+            "cityName": "丹东市"
+        },
+        {
+            "uuid": "210700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "210000",
+            "cityName": "锦州市"
+        },
+        {
+            "uuid": "210800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "210000",
+            "cityName": "营口市"
+        },
+        {
+            "uuid": "210900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "210000",
+            "cityName": "阜新市"
+        },
+        {
+            "uuid": "211000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "210000",
+            "cityName": "辽阳市"
+        },
+        {
+            "uuid": "211100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "210000",
+            "cityName": "盘锦市"
+        },
+        {
+            "uuid": "211200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "210000",
+            "cityName": "铁岭市"
+        },
+        {
+            "uuid": "211300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "210000",
+            "cityName": "朝阳市"
+        },
+        {
+            "uuid": "211400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "210000",
+            "cityName": "葫芦岛市"
+        },
+        {
+            "uuid": "220100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "220000",
+            "cityName": "长春市"
+        },
+        {
+            "uuid": "220200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "220000",
+            "cityName": "吉林市"
+        },
+        {
+            "uuid": "220300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "220000",
+            "cityName": "四平市"
+        },
+        {
+            "uuid": "220400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "220000",
+            "cityName": "辽源市"
+        },
+        {
+            "uuid": "220500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "220000",
+            "cityName": "通化市"
+        },
+        {
+            "uuid": "220600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "220000",
+            "cityName": "白山市"
+        },
+        {
+            "uuid": "220700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "220000",
+            "cityName": "松原市"
+        },
+        {
+            "uuid": "220800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "220000",
+            "cityName": "白城市"
+        },
+        {
+            "uuid": "222400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "220000",
+            "cityName": "延边朝鲜族自治州"
+        },
+        {
+            "uuid": "230100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "230000",
+            "cityName": "哈尔滨市"
+        },
+        {
+            "uuid": "230200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "230000",
+            "cityName": "齐齐哈尔市"
+        },
+        {
+            "uuid": "230300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "230000",
+            "cityName": "鸡西市"
+        },
+        {
+            "uuid": "230400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "230000",
+            "cityName": "鹤岗市"
+        },
+        {
+            "uuid": "230500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "230000",
+            "cityName": "双鸭山市"
+        },
+        {
+            "uuid": "230600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "230000",
+            "cityName": "大庆市"
+        },
+        {
+            "uuid": "230700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "230000",
+            "cityName": "伊春市"
+        },
+        {
+            "uuid": "230800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "230000",
+            "cityName": "佳木斯市"
+        },
+        {
+            "uuid": "230900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "230000",
+            "cityName": "七台河市"
+        },
+        {
+            "uuid": "231000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "230000",
+            "cityName": "牡丹江市"
+        },
+        {
+            "uuid": "231100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "230000",
+            "cityName": "黑河市"
+        },
+        {
+            "uuid": "231200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "230000",
+            "cityName": "绥化市"
+        },
+        {
+            "uuid": "232700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "230000",
+            "cityName": "大兴安岭地区"
+        },
+        {
+            "uuid": "310100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "310000",
+            "cityName": "上海市"
+        },
+        {
+            "uuid": "320100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "320000",
+            "cityName": "南京市"
+        },
+        {
+            "uuid": "320200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "320000",
+            "cityName": "无锡市"
+        },
+        {
+            "uuid": "320300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "320000",
+            "cityName": "徐州市"
+        },
+        {
+            "uuid": "320400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "320000",
+            "cityName": "常州市"
+        },
+        {
+            "uuid": "320500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "320000",
+            "cityName": "苏州市"
+        },
+        {
+            "uuid": "320600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "320000",
+            "cityName": "南通市"
+        },
+        {
+            "uuid": "320700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "320000",
+            "cityName": "连云港市"
+        },
+        {
+            "uuid": "320800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "320000",
+            "cityName": "淮安市"
+        },
+        {
+            "uuid": "320900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "320000",
+            "cityName": "盐城市"
+        },
+        {
+            "uuid": "321000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "320000",
+            "cityName": "扬州市"
+        },
+        {
+            "uuid": "321100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "320000",
+            "cityName": "镇江市"
+        },
+        {
+            "uuid": "321200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "320000",
+            "cityName": "泰州市"
+        },
+        {
+            "uuid": "321300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "320000",
+            "cityName": "宿迁市"
+        },
+        {
+            "uuid": "329900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "320000",
+            "cityName": "常熟市"
+        },
+        {
+            "uuid": "330100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "330000",
+            "cityName": "杭州市"
+        },
+        {
+            "uuid": "330200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "330000",
+            "cityName": "宁波市"
+        },
+        {
+            "uuid": "330300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "330000",
+            "cityName": "温州市"
+        },
+        {
+            "uuid": "330400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "330000",
+            "cityName": "嘉兴市"
+        },
+        {
+            "uuid": "330500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "330000",
+            "cityName": "湖州市"
+        },
+        {
+            "uuid": "330600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "330000",
+            "cityName": "绍兴市"
+        },
+        {
+            "uuid": "330700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "330000",
+            "cityName": "金华市"
+        },
+        {
+            "uuid": "330800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "330000",
+            "cityName": "衢州市"
+        },
+        {
+            "uuid": "330900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "330000",
+            "cityName": "舟山市"
+        },
+        {
+            "uuid": "331000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "330000",
+            "cityName": "台州市"
+        },
+        {
+            "uuid": "331100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "330000",
+            "cityName": "丽水市"
+        },
+        {
+            "uuid": "340100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "340000",
+            "cityName": "合肥市"
+        },
+        {
+            "uuid": "340200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "340000",
+            "cityName": "芜湖市"
+        },
+        {
+            "uuid": "340300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "340000",
+            "cityName": "蚌埠市"
+        },
+        {
+            "uuid": "340400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "340000",
+            "cityName": "淮南市"
+        },
+        {
+            "uuid": "340500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "340000",
+            "cityName": "马鞍山市"
+        },
+        {
+            "uuid": "340600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "340000",
+            "cityName": "淮北市"
+        },
+        {
+            "uuid": "340700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "340000",
+            "cityName": "铜陵市"
+        },
+        {
+            "uuid": "340800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "340000",
+            "cityName": "安庆市"
+        },
+        {
+            "uuid": "341000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "340000",
+            "cityName": "黄山市"
+        },
+        {
+            "uuid": "341100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "340000",
+            "cityName": "滁州市"
+        },
+        {
+            "uuid": "341200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "340000",
+            "cityName": "阜阳市"
+        },
+        {
+            "uuid": "341300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "340000",
+            "cityName": "宿州市"
+        },
+        {
+            "uuid": "341500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "340000",
+            "cityName": "六安市"
+        },
+        {
+            "uuid": "341600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "340000",
+            "cityName": "亳州市"
+        },
+        {
+            "uuid": "341700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "340000",
+            "cityName": "池州市"
+        },
+        {
+            "uuid": "341800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "340000",
+            "cityName": "宣城市"
+        },
+        {
+            "uuid": "350100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "350000",
+            "cityName": "福州市"
+        },
+        {
+            "uuid": "350200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "350000",
+            "cityName": "厦门市"
+        },
+        {
+            "uuid": "350300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "350000",
+            "cityName": "莆田市"
+        },
+        {
+            "uuid": "350400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "350000",
+            "cityName": "三明市"
+        },
+        {
+            "uuid": "350500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "350000",
+            "cityName": "泉州市"
+        },
+        {
+            "uuid": "350600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "350000",
+            "cityName": "漳州市"
+        },
+        {
+            "uuid": "350700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "350000",
+            "cityName": "南平市"
+        },
+        {
+            "uuid": "350800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "350000",
+            "cityName": "龙岩市"
+        },
+        {
+            "uuid": "350900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "350000",
+            "cityName": "宁德市"
+        },
+        {
+            "uuid": "360100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "360000",
+            "cityName": "南昌市"
+        },
+        {
+            "uuid": "360200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "360000",
+            "cityName": "景德镇市"
+        },
+        {
+            "uuid": "360300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "360000",
+            "cityName": "萍乡市"
+        },
+        {
+            "uuid": "360400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "360000",
+            "cityName": "九江市"
+        },
+        {
+            "uuid": "360500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "360000",
+            "cityName": "新余市"
+        },
+        {
+            "uuid": "360600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "360000",
+            "cityName": "鹰潭市"
+        },
+        {
+            "uuid": "360700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "360000",
+            "cityName": "赣州市"
+        },
+        {
+            "uuid": "360800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "360000",
+            "cityName": "吉安市"
+        },
+        {
+            "uuid": "360900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "360000",
+            "cityName": "宜春市"
+        },
+        {
+            "uuid": "361000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "360000",
+            "cityName": "抚州市"
+        },
+        {
+            "uuid": "361100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "360000",
+            "cityName": "上饶市"
+        },
+        {
+            "uuid": "370100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "370000",
+            "cityName": "济南市"
+        },
+        {
+            "uuid": "370200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "370000",
+            "cityName": "青岛市"
+        },
+        {
+            "uuid": "370300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "370000",
+            "cityName": "淄博市"
+        },
+        {
+            "uuid": "370400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "370000",
+            "cityName": "枣庄市"
+        },
+        {
+            "uuid": "370500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "370000",
+            "cityName": "东营市"
+        },
+        {
+            "uuid": "370600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "370000",
+            "cityName": "烟台市"
+        },
+        {
+            "uuid": "370700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "370000",
+            "cityName": "潍坊市"
+        },
+        {
+            "uuid": "370800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "370000",
+            "cityName": "济宁市"
+        },
+        {
+            "uuid": "370900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "370000",
+            "cityName": "泰安市"
+        },
+        {
+            "uuid": "371000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "370000",
+            "cityName": "威海市"
+        },
+        {
+            "uuid": "371100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "370000",
+            "cityName": "日照市"
+        },
+        {
+            "uuid": "371200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "370000",
+            "cityName": "莱芜市"
+        },
+        {
+            "uuid": "371300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "370000",
+            "cityName": "临沂市"
+        },
+        {
+            "uuid": "371400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "370000",
+            "cityName": "德州市"
+        },
+        {
+            "uuid": "371500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "370000",
+            "cityName": "聊城市"
+        },
+        {
+            "uuid": "371600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "370000",
+            "cityName": "滨州市"
+        },
+        {
+            "uuid": "371700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "370000",
+            "cityName": "菏泽市"
+        },
+        {
+            "uuid": "410100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "410000",
+            "cityName": "郑州市"
+        },
+        {
+            "uuid": "410200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "410000",
+            "cityName": "开封市"
+        },
+        {
+            "uuid": "410300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "410000",
+            "cityName": "洛阳市"
+        },
+        {
+            "uuid": "410400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "410000",
+            "cityName": "平顶山市"
+        },
+        {
+            "uuid": "410500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "410000",
+            "cityName": "安阳市"
+        },
+        {
+            "uuid": "410600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "410000",
+            "cityName": "鹤壁市"
+        },
+        {
+            "uuid": "410700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "410000",
+            "cityName": "新乡市"
+        },
+        {
+            "uuid": "410800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "410000",
+            "cityName": "焦作市"
+        },
+        {
+            "uuid": "410900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "410000",
+            "cityName": "濮阳市"
+        },
+        {
+            "uuid": "411000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "410000",
+            "cityName": "许昌市"
+        },
+        {
+            "uuid": "411100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "410000",
+            "cityName": "漯河市"
+        },
+        {
+            "uuid": "411200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "410000",
+            "cityName": "三门峡市"
+        },
+        {
+            "uuid": "411300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "410000",
+            "cityName": "南阳市"
+        },
+        {
+            "uuid": "411400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "410000",
+            "cityName": "商丘市"
+        },
+        {
+            "uuid": "411500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "410000",
+            "cityName": "信阳市"
+        },
+        {
+            "uuid": "411600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "410000",
+            "cityName": "周口市"
+        },
+        {
+            "uuid": "411700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "410000",
+            "cityName": "驻马店市"
+        },
+        {
+            "uuid": "419001",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "410000",
+            "cityName": "济源市"
+        },
+        {
+            "uuid": "420100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "420000",
+            "cityName": "武汉市"
+        },
+        {
+            "uuid": "420200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "420000",
+            "cityName": "黄石市"
+        },
+        {
+            "uuid": "420300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "420000",
+            "cityName": "十堰市"
+        },
+        {
+            "uuid": "420500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "420000",
+            "cityName": "宜昌市"
+        },
+        {
+            "uuid": "420600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "420000",
+            "cityName": "襄阳市"
+        },
+        {
+            "uuid": "420700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "420000",
+            "cityName": "鄂州市"
+        },
+        {
+            "uuid": "420800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "420000",
+            "cityName": "荆门市"
+        },
+        {
+            "uuid": "420900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "420000",
+            "cityName": "孝感市"
+        },
+        {
+            "uuid": "421000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "420000",
+            "cityName": "荆州市"
+        },
+        {
+            "uuid": "421100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "420000",
+            "cityName": "黄冈市"
+        },
+        {
+            "uuid": "421200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "420000",
+            "cityName": "咸宁市"
+        },
+        {
+            "uuid": "421300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "420000",
+            "cityName": "随州市"
+        },
+        {
+            "uuid": "422800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "420000",
+            "cityName": "恩施土家族苗族自治州"
+        },
+        {
+            "uuid": "429004",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "420000",
+            "cityName": "仙桃市"
+        },
+        {
+            "uuid": "429005",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "420000",
+            "cityName": "潜江市"
+        },
+        {
+            "uuid": "429006",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "420000",
+            "cityName": "天门市"
+        },
+        {
+            "uuid": "429121",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "420000",
+            "cityName": "神农架林区"
+        },
+        {
+            "uuid": "430100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "430000",
+            "cityName": "长沙市"
+        },
+        {
+            "uuid": "430200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "430000",
+            "cityName": "株洲市"
+        },
+        {
+            "uuid": "430300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "430000",
+            "cityName": "湘潭市"
+        },
+        {
+            "uuid": "430400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "430000",
+            "cityName": "衡阳市"
+        },
+        {
+            "uuid": "430500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "430000",
+            "cityName": "邵阳市"
+        },
+        {
+            "uuid": "430600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "430000",
+            "cityName": "岳阳市"
+        },
+        {
+            "uuid": "430700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "430000",
+            "cityName": "常德市"
+        },
+        {
+            "uuid": "430800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "430000",
+            "cityName": "张家界市"
+        },
+        {
+            "uuid": "430900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "430000",
+            "cityName": "益阳市"
+        },
+        {
+            "uuid": "431000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "430000",
+            "cityName": "郴州市"
+        },
+        {
+            "uuid": "431100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "430000",
+            "cityName": "永州市"
+        },
+        {
+            "uuid": "431200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "430000",
+            "cityName": "怀化市"
+        },
+        {
+            "uuid": "431300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "430000",
+            "cityName": "娄底市"
+        },
+        {
+            "uuid": "433100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "430000",
+            "cityName": "湘西土家族苗族自治州"
+        },
+        {
+            "uuid": "440100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "广州市"
+        },
+        {
+            "uuid": "440200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "韶关市"
+        },
+        {
+            "uuid": "440300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "深圳市"
+        },
+        {
+            "uuid": "440400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "珠海市"
+        },
+        {
+            "uuid": "440500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "汕头市"
+        },
+        {
+            "uuid": "440600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "佛山市"
+        },
+        {
+            "uuid": "440700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "江门市"
+        },
+        {
+            "uuid": "440800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "湛江市"
+        },
+        {
+            "uuid": "440900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "茂名市"
+        },
+        {
+            "uuid": "441200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "肇庆市"
+        },
+        {
+            "uuid": "441300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "惠州市"
+        },
+        {
+            "uuid": "441400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "梅州市"
+        },
+        {
+            "uuid": "441500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "汕尾市"
+        },
+        {
+            "uuid": "441600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "河源市"
+        },
+        {
+            "uuid": "441700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "阳江市"
+        },
+        {
+            "uuid": "441800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "清远市"
+        },
+        {
+            "uuid": "441900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "东莞市"
+        },
+        {
+            "uuid": "442000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "中山市"
+        },
+        {
+            "uuid": "445100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "潮州市"
+        },
+        {
+            "uuid": "445200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "揭阳市"
+        },
+        {
+            "uuid": "445300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "440000",
+            "cityName": "云浮市"
+        },
+        {
+            "uuid": "450100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "450000",
+            "cityName": "南宁市"
+        },
+        {
+            "uuid": "450200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "450000",
+            "cityName": "柳州市"
+        },
+        {
+            "uuid": "450300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "450000",
+            "cityName": "桂林市"
+        },
+        {
+            "uuid": "450400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "450000",
+            "cityName": "梧州市"
+        },
+        {
+            "uuid": "450500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "450000",
+            "cityName": "北海市"
+        },
+        {
+            "uuid": "450600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "450000",
+            "cityName": "防城港市"
+        },
+        {
+            "uuid": "450700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "450000",
+            "cityName": "钦州市"
+        },
+        {
+            "uuid": "450800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "450000",
+            "cityName": "贵港市"
+        },
+        {
+            "uuid": "450900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "450000",
+            "cityName": "玉林市"
+        },
+        {
+            "uuid": "451000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "450000",
+            "cityName": "百色市"
+        },
+        {
+            "uuid": "451100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "450000",
+            "cityName": "贺州市"
+        },
+        {
+            "uuid": "451200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "450000",
+            "cityName": "河池市"
+        },
+        {
+            "uuid": "451300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "450000",
+            "cityName": "来宾市"
+        },
+        {
+            "uuid": "451400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "450000",
+            "cityName": "崇左市"
+        },
+        {
+            "uuid": "460100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "海口市"
+        },
+        {
+            "uuid": "460200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "三亚市"
+        },
+        {
+            "uuid": "460300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "三沙市"
+        },
+        {
+            "uuid": "469001",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "五指山市"
+        },
+        {
+            "uuid": "469002",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "琼海市"
+        },
+        {
+            "uuid": "469003",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "儋州市"
+        },
+        {
+            "uuid": "469005",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "文昌市"
+        },
+        {
+            "uuid": "469006",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "万宁市"
+        },
+        {
+            "uuid": "469007",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "东方市"
+        },
+        {
+            "uuid": "469021",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "定安县"
+        },
+        {
+            "uuid": "469022",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "屯昌县"
+        },
+        {
+            "uuid": "469023",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "澄迈县"
+        },
+        {
+            "uuid": "469024",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "临高县"
+        },
+        {
+            "uuid": "469025",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "白沙黎族自治县"
+        },
+        {
+            "uuid": "469026",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "昌江黎族自治县"
+        },
+        {
+            "uuid": "469027",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "乐东黎族自治县"
+        },
+        {
+            "uuid": "469028",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "陵水黎族自治县"
+        },
+        {
+            "uuid": "469029",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "保亭黎族苗族自治县"
+        },
+        {
+            "uuid": "469030",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "琼中黎族苗族自治县"
+        },
+        {
+            "uuid": "469031",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "西沙群岛"
+        },
+        {
+            "uuid": "469032",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "南沙群岛"
+        },
+        {
+            "uuid": "469033",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "460000",
+            "cityName": "中沙群岛的岛礁及其海域"
+        },
+        {
+            "uuid": "500100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "500000",
+            "cityName": "重庆市"
+        },
+        {
+            "uuid": "510100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "成都市"
+        },
+        {
+            "uuid": "510300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "自贡市"
+        },
+        {
+            "uuid": "510400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "攀枝花市"
+        },
+        {
+            "uuid": "510500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "泸州市"
+        },
+        {
+            "uuid": "510600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "德阳市"
+        },
+        {
+            "uuid": "510700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "绵阳市"
+        },
+        {
+            "uuid": "510800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "广元市"
+        },
+        {
+            "uuid": "510900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "遂宁市"
+        },
+        {
+            "uuid": "511000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "内江市"
+        },
+        {
+            "uuid": "511100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "乐山市"
+        },
+        {
+            "uuid": "511300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "南充市"
+        },
+        {
+            "uuid": "511400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "眉山市"
+        },
+        {
+            "uuid": "511500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "宜宾市"
+        },
+        {
+            "uuid": "511600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "广安市"
+        },
+        {
+            "uuid": "511700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "达州市"
+        },
+        {
+            "uuid": "511800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "雅安市"
+        },
+        {
+            "uuid": "511900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "巴中市"
+        },
+        {
+            "uuid": "512000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "资阳市"
+        },
+        {
+            "uuid": "513200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "阿坝藏族羌族自治州"
+        },
+        {
+            "uuid": "513300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "甘孜藏族自治州"
+        },
+        {
+            "uuid": "513400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "510000",
+            "cityName": "凉山彝族自治州"
+        },
+        {
+            "uuid": "520100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "520000",
+            "cityName": "贵阳市"
+        },
+        {
+            "uuid": "520200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "520000",
+            "cityName": "六盘水市"
+        },
+        {
+            "uuid": "520300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "520000",
+            "cityName": "遵义市"
+        },
+        {
+            "uuid": "520400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "520000",
+            "cityName": "安顺市"
+        },
+        {
+            "uuid": "522200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "520000",
+            "cityName": "铜仁市"
+        },
+        {
+            "uuid": "522300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "520000",
+            "cityName": "黔西南布依族苗族自治州"
+        },
+        {
+            "uuid": "522400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "520000",
+            "cityName": "毕节市"
+        },
+        {
+            "uuid": "522600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "520000",
+            "cityName": "黔东南苗族侗族自治州"
+        },
+        {
+            "uuid": "522700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "520000",
+            "cityName": "黔南布依族苗族自治州"
+        },
+        {
+            "uuid": "530100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "530000",
+            "cityName": "昆明市"
+        },
+        {
+            "uuid": "530300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "530000",
+            "cityName": "曲靖市"
+        },
+        {
+            "uuid": "530400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "530000",
+            "cityName": "玉溪市"
+        },
+        {
+            "uuid": "530500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "530000",
+            "cityName": "保山市"
+        },
+        {
+            "uuid": "530600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "530000",
+            "cityName": "昭通市"
+        },
+        {
+            "uuid": "530700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "530000",
+            "cityName": "丽江市"
+        },
+        {
+            "uuid": "530800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "530000",
+            "cityName": "普洱市"
+        },
+        {
+            "uuid": "530900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "530000",
+            "cityName": "临沧市"
+        },
+        {
+            "uuid": "532300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "530000",
+            "cityName": "楚雄彝族自治州"
+        },
+        {
+            "uuid": "532500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "530000",
+            "cityName": "红河哈尼族彝族自治州"
+        },
+        {
+            "uuid": "532600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "530000",
+            "cityName": "文山壮族苗族自治州"
+        },
+        {
+            "uuid": "532800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "530000",
+            "cityName": "西双版纳傣族自治州"
+        },
+        {
+            "uuid": "532900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "530000",
+            "cityName": "大理白族自治州"
+        },
+        {
+            "uuid": "533100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "530000",
+            "cityName": "德宏傣族景颇族自治州"
+        },
+        {
+            "uuid": "533300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "530000",
+            "cityName": "怒江傈僳族自治州"
+        },
+        {
+            "uuid": "533400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "530000",
+            "cityName": "迪庆藏族自治州"
+        },
+        {
+            "uuid": "540100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "540000",
+            "cityName": "拉萨市"
+        },
+        {
+            "uuid": "542100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "540000",
+            "cityName": "昌都地区"
+        },
+        {
+            "uuid": "542200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "540000",
+            "cityName": "山南地区"
+        },
+        {
+            "uuid": "542300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "540000",
+            "cityName": "日喀则地区"
+        },
+        {
+            "uuid": "542400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "540000",
+            "cityName": "那曲地区"
+        },
+        {
+            "uuid": "542500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "540000",
+            "cityName": "阿里地区"
+        },
+        {
+            "uuid": "542600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "540000",
+            "cityName": "林芝地区"
+        },
+        {
+            "uuid": "610100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "610000",
+            "cityName": "西安市"
+        },
+        {
+            "uuid": "610200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "610000",
+            "cityName": "铜川市"
+        },
+        {
+            "uuid": "610300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "610000",
+            "cityName": "宝鸡市"
+        },
+        {
+            "uuid": "610400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "610000",
+            "cityName": "咸阳市"
+        },
+        {
+            "uuid": "610500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "610000",
+            "cityName": "渭南市"
+        },
+        {
+            "uuid": "610600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "610000",
+            "cityName": "延安市"
+        },
+        {
+            "uuid": "610700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "610000",
+            "cityName": "汉中市"
+        },
+        {
+            "uuid": "610800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "610000",
+            "cityName": "榆林市"
+        },
+        {
+            "uuid": "610900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "610000",
+            "cityName": "安康市"
+        },
+        {
+            "uuid": "611000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "610000",
+            "cityName": "商洛市"
+        },
+        {
+            "uuid": "611100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "610000",
+            "cityName": "杨凌示范区"
+        },
+        {
+            "uuid": "620100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "620000",
+            "cityName": "兰州市"
+        },
+        {
+            "uuid": "620200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "620000",
+            "cityName": "嘉峪关市"
+        },
+        {
+            "uuid": "620300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "620000",
+            "cityName": "金昌市"
+        },
+        {
+            "uuid": "620400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "620000",
+            "cityName": "白银市"
+        },
+        {
+            "uuid": "620500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "620000",
+            "cityName": "天水市"
+        },
+        {
+            "uuid": "620600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "620000",
+            "cityName": "武威市"
+        },
+        {
+            "uuid": "620700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "620000",
+            "cityName": "张掖市"
+        },
+        {
+            "uuid": "620800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "620000",
+            "cityName": "平凉市"
+        },
+        {
+            "uuid": "620900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "620000",
+            "cityName": "酒泉市"
+        },
+        {
+            "uuid": "621000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "620000",
+            "cityName": "庆阳市"
+        },
+        {
+            "uuid": "621100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "620000",
+            "cityName": "定西市"
+        },
+        {
+            "uuid": "621200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "620000",
+            "cityName": "陇南市"
+        },
+        {
+            "uuid": "622900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "620000",
+            "cityName": "临夏回族自治州"
+        },
+        {
+            "uuid": "623000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "620000",
+            "cityName": "甘南藏族自治州"
+        },
+        {
+            "uuid": "630100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "630000",
+            "cityName": "西宁市"
+        },
+        {
+            "uuid": "632100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "630000",
+            "cityName": "海东地区"
+        },
+        {
+            "uuid": "632200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "630000",
+            "cityName": "海北藏族自治州"
+        },
+        {
+            "uuid": "632300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "630000",
+            "cityName": "黄南藏族自治州"
+        },
+        {
+            "uuid": "632500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "630000",
+            "cityName": "海南藏族自治州"
+        },
+        {
+            "uuid": "632600",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "630000",
+            "cityName": "果洛藏族自治州"
+        },
+        {
+            "uuid": "632700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "630000",
+            "cityName": "玉树藏族自治州"
+        },
+        {
+            "uuid": "632800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "630000",
+            "cityName": "海西蒙古族藏族自治州"
+        },
+        {
+            "uuid": "640100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "640000",
+            "cityName": "银川市"
+        },
+        {
+            "uuid": "640200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "640000",
+            "cityName": "石嘴山市"
+        },
+        {
+            "uuid": "640300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "640000",
+            "cityName": "吴忠市"
+        },
+        {
+            "uuid": "640400",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "640000",
+            "cityName": "固原市"
+        },
+        {
+            "uuid": "640500",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "640000",
+            "cityName": "中卫市"
+        },
+        {
+            "uuid": "650100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "650000",
+            "cityName": "乌鲁木齐市"
+        },
+        {
+            "uuid": "650200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "650000",
+            "cityName": "克拉玛依市"
+        },
+        {
+            "uuid": "652100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "650000",
+            "cityName": "吐鲁番地区"
+        },
+        {
+            "uuid": "652200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "650000",
+            "cityName": "哈密地区"
+        },
+        {
+            "uuid": "652300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "650000",
+            "cityName": "昌吉回族自治州"
+        },
+        {
+            "uuid": "652700",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "650000",
+            "cityName": "博尔塔拉蒙古自治州"
+        },
+        {
+            "uuid": "652800",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "650000",
+            "cityName": "巴音郭楞蒙古自治州"
+        },
+        {
+            "uuid": "652900",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "650000",
+            "cityName": "阿克苏地区"
+        },
+        {
+            "uuid": "653000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "650000",
+            "cityName": "克孜勒苏柯尔克孜自治州"
+        },
+        {
+            "uuid": "653100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "650000",
+            "cityName": "喀什地区"
+        },
+        {
+            "uuid": "653200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "650000",
+            "cityName": "和田地区"
+        },
+        {
+            "uuid": "654000",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "650000",
+            "cityName": "伊犁哈萨克自治州"
+        },
+        {
+            "uuid": "654200",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "650000",
+            "cityName": "塔城地区"
+        },
+        {
+            "uuid": "654300",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "650000",
+            "cityName": "阿勒泰地区"
+        },
+        {
+            "uuid": "659001",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "650000",
+            "cityName": "石河子市"
+        },
+        {
+            "uuid": "659002",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "650000",
+            "cityName": "阿拉尔市"
+        },
+        {
+            "uuid": "659003",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "650000",
+            "cityName": "图木舒克市"
+        },
+        {
+            "uuid": "659004",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "650000",
+            "cityName": "五家渠市"
+        },
+        {
+            "uuid": "710100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "710000",
+            "cityName": "台湾省"
+        },
+        {
+            "uuid": "810100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "810000",
+            "cityName": "香港特别行政区"
+        },
+        {
+            "uuid": "820100",
+            "oper": "",
+            "opeTime": "",
+            "delFlag": "1",
+            "provinceUuid": "820000",
+            "cityName": "澳门特别行政区"
+        }
+    ]
+}
