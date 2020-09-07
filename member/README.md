@@ -1,6 +1,6 @@
 # member
 
-> A Vue.js project 微信公众号开发
+> A Vue.js project
 
 ## Build Setup
 
