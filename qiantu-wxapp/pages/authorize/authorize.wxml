@@ -1,0 +1,30 @@
+<!--pages/authorize/authorize.wxml-->
+<view class="wrap-container">
+  <image class="banner" src='../../assets/images/wxapp-banner.jpg'></image>
+  <button 
+      class='auth' 
+      hover-class='none'
+      lang='zh_CN' 
+      open-type="getUserInfo"
+      bindgetuserinfo="getUserInfo" 
+      wx:if="{{testBtn}}"
+    >
+    授\t权\t登\t录
+    </button>
+    <button 
+      class='auth auth-disabled' 
+      hover-class='none'
+      wx:else
+    >
+    授\t权\t登\t录
+    </button>
+    <view class="radio-section clearfix">
+      <!-- <radio class="radio" checked="checked">
+          <text>我已认真阅读，理解并同意<span>《用户协议及隐私政策》</span></text>
+      </radio> -->
+      <radio class="fl" checked/>
+      <view class="text fl">我已认真阅读，理解并同意<span>《用户协议及隐私政策》</span></view>
+    </view>
+    <image class="logo" src='../../assets/images/wxapp-logo.png'></image>
+  
+</view>

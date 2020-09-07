@@ -1,0 +1,6 @@
+<!--pages/success/success.wxml-->
+
+<view class="bg">
+  <image class="success-bg" src='../../assets/images/testdrive/bg.jpg'></image>
+  <text class="success-txt">您的信息已经提交成功！\n我们的工作人员将会电话联系您，感谢您的参与！</text>
+</view>

@@ -1,0 +1,121 @@
+/**index.wxss**/
+
+.fl{
+  float: left;
+}
+.fr {
+  float: right;
+}
+.banner{
+  width: 100%;
+  height: 825rpx;
+}
+image {
+  width: 100%;
+  display: block;
+}
+.padd-50{
+  padding: 80rpx 50rpx 60rpx;
+}
+.container{
+  padding: 0 20rpx 100rpx;
+}
+
+.title{
+  font-size: 38rpx;
+  color: #282828;
+}
+.title-line {
+  /* width: 247rpx; */
+  width: 263rpx;
+  height: 36rpx;   
+}
+.title-line-cxld{
+  width: 142rpx;
+}
+.title-line-shfw{
+  width: 350rpx;
+}
+.title-txt{
+  font-size: 21rpx;
+}
+
+.img10 {
+  height:348rpx;
+}
+.img1-box{
+  padding: 95rpx 30rpx;
+}
+.img1{
+  height:214rpx;
+}
+.img2{
+  height: 427rpx;
+  margin-bottom: 15rpx;
+}
+.img3{
+  width: 346rpx;
+  height:342rpx;
+}
+.img4{
+  width: 349rpx;
+  height:342rpx;
+}
+.img9{
+  height:929rpx;
+}
+/* 轮播图 */
+.section-swiper{
+  background: #f2f2f3;
+}
+swiper{
+  height: 780rpx;
+}
+.swiper-des{
+  padding: 45rpx 50rpx 0;
+}
+.font-21{
+  font-size: 21rpx;
+}
+.swiper-title {
+  font-size: 25rpx;
+  font-weight: 700;
+  margin-bottom: 10rpx;
+}
+.section-swiper .swiper-img{
+  position: relative;
+}
+.section-swiper .swiper-line{
+  position: absolute;
+  bottom: -10rpx;
+  right: 0;
+  width:459rpx;
+  height:10rpx;
+
+}
+.footer-btn{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 112rpx;
+  line-height: 112rpx;
+  /* padding-top:50rpx; */
+  background:#4c4c4b;
+  z-index: 100;
+  /* opacity: .9; */
+}
+.test-drive-button{
+  width: 313rpx;
+  height: 64rpx;
+  line-height: 64rpx;
+  margin-top: 25rpx;
+  background: #b81b2a;
+  font-size: 24rpx;
+  color: #fff;
+  border-radius: 0;
+}
+.test-disabled{
+  background: #e4e4e4;
+  color: #282828;
+}

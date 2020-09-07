@@ -1,0 +1,173 @@
+/* pages/testdrive/testdrive.wxss */
+.bg {
+  overflow: hidden;
+}
+.testdrive-bg{
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display:block;
+  overflow: hidden;
+}
+.form-box{
+  padding: 15% 119rpx 0 111rpx;
+  font-size: 24rpx;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: #fff;
+}
+.close-btn{
+  position: absolute;
+  top:12%;
+  right:119rpx;
+  width: 25rpx;
+  height: 26rpx;
+}
+.close-btn:hover{
+  opacity: .8;
+}
+.form-title{
+  display: inline-block;
+  line-height: 60rpx;
+  font-size: 40rpx;
+  letter-spacing:6rpx;
+  margin-bottom: 10%;
+}
+.section {
+  display: flex;
+  margin-bottom: 27rpx;
+  line-height:56rpx;
+}
+.section_title{
+  width: 88rpx;
+  text-align-last: justify;
+  margin-right: 58rpx;
+}
+.section_input {
+  position: relative;
+  width: 373rpx;
+  height: 56rpx;
+  border:1rpx solid #fff;
+  border-radius: 10rpx;
+  padding-left: 15rpx;
+  
+}
+.phcolor {
+  color: #fff;
+  font-size: 20rpx;
+}
+.section label {
+  margin-right: 30rpx;
+}
+/*  重写 radio 样式  */
+/* 未选中的 背景样式 */
+radio .wx-radio-input{
+   border-radius: 50%;/* 圆角 */
+   width: 24rpx;
+   height: 24rpx;
+   border: 1rpx solid red;
+   background: transparent;
+}
+/* 选中后的 背景样式 （红色背景 无边框 可根据UI需求自己修改） */
+radio .wx-radio-input.wx-radio-input-checked{
+  position: relative;
+  width: 25rpx;
+   height: 25rpx;
+   border: 1rpx solid red;
+   /* border: none; */
+   background: red;
+}
+/* 选中后的 对勾样式 （白色对勾 可根据UI需求自己修改） */
+radio .wx-radio-input.wx-radio-input-checked::before{
+  content: "";
+   border-radius: 50%;/* 圆角 */
+   width: 11rpx; /* 选中后对勾大小，不要超过背景的尺寸 */
+   height: 11rpx; /* 选中后对勾大小，不要超过背景的尺寸 */
+   line-height: 11rpx;
+   text-align: center;
+   font-size:30rpx; /* 对勾大小 30rpx */
+   color:#fff; /* 对勾颜色 白色 */
+   position: absolute;
+   top: 50%;
+   left: 49%;
+   background: #fff;
+   transform:translate(-50%, -50%);
+   -webkit-transform:translate(-50%, -50%);
+}
+
+.submit-btn{
+  margin-top: 72rpx;
+  width: 312rpx;
+  height: 75rpx;
+  line-height: 75rpx;
+  text-align: center;
+  color: #fff;
+  font-size: 27rpx;
+  background: #b81b2a;
+}
+
+
+.com-selectBox{
+    width: 100%;
+}
+.com-sContent{
+  position: relative;
+    /* border: 1px solid #e2e2e2;
+    background: transparent;
+    font-size: 16px;
+    position: relative;
+    height: 30px;
+    line-height: 30px; */
+}
+.com-sImg{
+    position: absolute;
+    right: 10rpx;
+    top: 11rpx;
+    /* top: 22rpx;
+    right: 18rpx; */
+    width: 15rpx;
+    height: 32rpx;
+    /* height: 13rpx; */
+    /* transition: all .3s ease; */
+}
+.com-sTxt{
+  height: 56rpx;
+  line-height: 56rpx;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    /* padding:0 20px 0 6px; */
+    font-size: 20rpx;
+}
+.com-sList{
+    background:rgba(0, 0, 0, .6);
+    color: #e4e4e4;
+    width: 100%;
+    border-radius: 10rpx;
+    padding-left: 20rpx;
+    position: absolute;
+    left:0;
+    border: 1rpx solid #e2e2e2;
+    border-top: none;
+    box-sizing: border-box;
+    z-index: 3;
+    max-height: 300rpx;
+    overflow: auto;
+}
+.com-sItem{
+    /* height: 30px;
+    line-height: 30px;
+    border-top: 1px solid #e2e2e2;
+    padding: 0 6px;
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 14px; */
+}
+/* .com-sItem:first-child{
+    border-top: none;
+} */
+
+

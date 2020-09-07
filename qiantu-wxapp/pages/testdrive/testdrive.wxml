@@ -1,0 +1,64 @@
+<view class='bg'>
+  <image class="testdrive-bg" src='../../assets/images/testdrive/bg.jpg'></image>
+  <form bindsubmit="formSubmit">
+    <view class="form-box">
+      <image class="close-btn" src='../../assets/images/testdrive/close.png' bindtap='toIndex'></image>
+      <text class="form-title">亲临体验前途K50\n在线预约试驾</text>
+      <!-- 姓氏 -->
+      <view class="section">
+        <view class="section_title">姓氏</view>
+        <input class="section_input" name="userName" placeholder-class="phcolor" placeholder="请输入您的姓氏" />
+      </view>
+      <!-- 称谓 -->
+      <view class="section section_gap">
+        <view class="section_title">称谓</view>
+        <radio-group name="gender" bindchange="radioChange">
+          <label wx:for="{{radioItems}}" wx:key="*this">
+            <radio value="{{item.code}}" checked="{{item.checked}}"/>{{item.value}}
+          </label>
+        </radio-group>
+
+      </view>
+      <!-- 手机 -->
+      <view class="section">
+        <view class="section_title">手机</view>
+        <input 
+          class="section_input" 
+          name="mobile" 
+          type="number" 
+          disabled="disabled"
+          maxlength="11" 
+          placeholder-class="phcolor" 
+          placeholder="请输入您的手机号" 
+          value='{{mobile}}' 
+        />
+      </view>
+      <!-- 省份 -->
+      <view class="section">
+        <view class="section_title">省份</view>
+        <view class="section_input">
+          <picker bindchange="bindProvinceArrPickerChange" value="{{provinceArr[provinceId].id}}" range-key="{{'name'}}" range="{{provinceArr}}" data-id="{{id}}">
+            <view class="picker">
+              <input class="com-sTxt" name="province" disabled placeholder-class="phcolor" placeholder="请选择" value='{{provinceArr[provinceId].name}}'/>
+            </view>
+          </picker>
+        </view>
+      </view> 
+      <!-- 城市 -->
+      <view class="section">
+        <view class="section_title">城市</view>
+        <view class="section_input">
+          <picker bindchange="bindPickerChange" value="{{cityArr[cityId].id}}" range-key="{{'name'}}" range="{{cityArr}}">
+            <view class="picker">
+            <input class="com-sTxt" name="city" disabled placeholder-class="phcolor" placeholder="请选择" value='{{cityArr[cityId].name}}'/>
+            </view>
+          </picker>
+        </view>
+      </view>
+      <view>
+        <button class="submit-btn" formType="submit">提交</button>
+      </view>
+      
+    </view>
+  </form>
+</view>

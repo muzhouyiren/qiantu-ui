@@ -1,0 +1,79 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"autoAudits": false
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.9.0",
+	"appid": "wx1d68c58d1c5f3fab",
+	"projectname": "qiantu-wxapp",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 2,
+			"list": [
+				{
+					"id": -1,
+					"name": "testDrive",
+					"pathName": "pages/testdrive/testdrive",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "k50",
+					"pathName": "pages/k50/k50",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 2,
+					"name": "success",
+					"pathName": "pages/success/success",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 3,
+					"name": "authorize",
+					"pathName": "pages/authorize/authorize",
+					"query": "",
+					"scene": null
+				}
+			]
+		}
+	}
+}

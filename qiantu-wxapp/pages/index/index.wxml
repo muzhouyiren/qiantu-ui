@@ -1,0 +1,75 @@
+<!--k50.wxml-->
+<view class="wrap-container">
+  <image class="banner" src='../../assets/images/banner1.jpg'></image>
+  <view class="container">
+    <view class="padd-50">
+      <view class="title">为纯电驾趣而生</view>
+      <image class='title-line' src='../../assets/images/line.jpg'></image>
+      <view class="title-txt">一台车因何而存在？前途K50携新能源技术而来，打造全新驾趣之享。为了给你轻快的驾趣体验，我们采用轻量化车身，配合低风阻结合跑车底盘调校，给你更敏捷的操控感受。</view>
+    </view>
+    <image class="img10" src="../../assets/images/img10.png"></image>
+    <view class="img1-box">
+      <image class="img1" src="../../assets/images/img1.png"></image>
+    </view>
+    <image class="img2" src="../../assets/images/img2.jpg"></image>
+    <view class="clearfix">
+      <image class="fl img3" src="../../assets/images/img3.jpg"></image>
+      <image class="fr img4" src="../../assets/images/img4.jpg"></image>
+    </view>
+
+    <!-- 车型亮点 -->
+    <view class="padd-50">
+      <view class="title">车型亮点</view>
+      <image class='title-line title-line-cxld' src='../../assets/images/line-cxld.jpg'></image>
+    </view>
+    <!-- 轮播图 -->
+    <view class="section-swiper">
+      <swiper indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" circular="{{circular}}" vertical="{{vertical}}" interval="{{interval}}" duration="{{duration}}" previous-margin="{{previousMargin}}px" next-margin="{{nextMargin}}px">
+        <block wx:for="{{swiperImages}}" wx:key="*this">
+          <swiper-item>
+            <view class="swiper-item">
+              <view class="swiper-img">
+                <image src="{{item.imgurl}}"></image>
+                <image class="swiper-line" src="../../assets/images/img-line.jpg"></image>
+              </view>
+              <view class="swiper-des">
+                <view class="swiper-title">{{item.title}}</view>
+                <view class="font-21">{{item.des}}</view>
+              </view>
+            </view>
+          </swiper-item>
+        </block>
+      </swiper>
+    </view>
+
+    <!-- 售后服务&金融政策 -->
+    <view class="padd-50">
+      <view class="title">售后服务&金融政策</view>
+      <image class='title-line title-line-shfw' src='../../assets/images/line-shfw.jpg'></image>
+    </view>
+
+    <image class="img9" src='../../assets/images/img9.jpg'></image>
+  </view>
+  <view class="footer-btn">
+    <button 
+      class='test-drive-button' 
+      hover-class='none'
+      lang='zh_CN' 
+      open-type="getPhoneNumber" 
+      bindgetphonenumber="getPhoneNumber" 
+      wx:if="{{isAuth}}"
+    >
+    预\t约\t试\t驾
+    </button>
+    
+    <button 
+      class='test-drive-button' 
+      hover-class='none' 
+      bindtap='goAuthorize' 
+      wx:else
+    >
+    预\t约\t试\t驾
+    </button>
+  </view>
+   <!-- class='test-drive-button test-disabled'  -->
+</view>
